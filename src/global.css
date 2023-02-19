@@ -1,0 +1,18 @@
+:root {
+	--background-primary: #1a2c38;
+	--background-secondary: #0f212f;
+	--background-tertiary: #304654;
+	--background-tertiary-dark: #071824;
+	--background-tertiary-light: #567086;
+  
+	--text-label: #b1bad3;
+	--text-success: #00e701;
+  
+	--border-success: #00e701;
+  
+	--button-primary: #00e701;
+	--button-primary-dark: #013e01;
+	--button-primary-light: #1fff20;
+  
+	--grayscale-white: #ffffff;
+}
